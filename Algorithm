@@ -1,0 +1,13 @@
+//we work as a Group With bayan - khaled - abdulrahman
+
+The working algorithm as follows , we used :-
+-2 servo motor.      
+- potentiometers to simulate the movement of the engine by hand. 
+- push button to save the angle values.  
+
+1- click on the button to start work of the electronic circuit.    
+2- The engine angles are determined by reading the inputs and storing them in a variable x. 
+3- The sensor reading is converted to values that suit the angles of the servo motor from 0-180 degrees and saving in a variable y.       
+4- After the conversion process, the first servo motor is started.   
+5- The angle values are saved in the
+6- After a period of waiting for half a second, the second servo motor starts to move depending on the value of the angle witch saved of the first servo motor.
